@@ -1,0 +1,22 @@
+{
+  "name": "sonosbot",
+  "version": "1.0.0",
+  "description": "Sonos Slack Bot",
+  "main": "sonosbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poolski/sonosbot.git"
+  },
+  "keywords": [
+    "sonos"
+  ],
+  "author": "Kyrill Poole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poolski/sonosbot/issues"
+  },
+  "homepage": "https://github.com/poolski/sonosbot#readme"
+}
